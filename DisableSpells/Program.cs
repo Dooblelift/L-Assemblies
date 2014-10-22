@@ -42,6 +42,18 @@ namespace DisableSpells
                 ChampionName = "Sion",
                 AvailableSpell = SpellSlot.W
             });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Lee Sin",
+                AvailableSpell = SpellSlot.Q
+            });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Riven",
+                AvailableSpell = SpellSlot.R
+            });
 
             Spells.Add(new SpellStruct
             {
@@ -59,6 +71,12 @@ namespace DisableSpells
             {
                 ChampionName = "MasterYi",
                 AvailableSpell = SpellSlot.R
+            });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Taric",
+                AvailableSpell = SpellSlot.Q
             });
             
             Spells.Add(new SpellStruct
