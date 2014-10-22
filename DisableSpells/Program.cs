@@ -30,6 +30,12 @@ namespace DisableSpells
                 ChampionName = "Rumble",
                 AvailableSpell = SpellSlot.W
             });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Vladimir",
+                AvailableSpell = SpellSlot.W
+            });
 
             Spells.Add(new SpellStruct
             {
