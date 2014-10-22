@@ -54,6 +54,30 @@ namespace DisableSpells
                 ChampionName = "MasterYi",
                 AvailableSpell = SpellSlot.R
             });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Fiddlesticks",
+                AvailableSpell = SpellSlot.E
+            });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Sivir",
+                AvailableSpell = SpellSlot.Q
+            });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Lulu",
+                AvailableSpell = SpellSlot.Q
+            });
+            
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Lulu",
+                AvailableSpell = SpellSlot.E
+            });
 
             Spells.Add(new SpellStruct
             {
