@@ -109,11 +109,23 @@ namespace DisableSpells
                 ChampionName = "Tryndamere",
                 AvailableSpell = SpellSlot.R
             });
+            
+                            ChampionName = "Kog'Maw",
+                AvailableSpell = SpellSlot.W
+            });
+            
+                            ChampionName = "Lucian",
+                AvailableSpell = SpellSlot.R
+            });
 
             Spells.Add(new SpellStruct
             {
                 ChampionName = "Teemo",
                 AvailableSpell = SpellSlot.W
+            });
+            
+                            ChampionName = "Malphite",
+                AvailableSpell = SpellSlot.Q
             });
 
             Spells.Add(new SpellStruct
