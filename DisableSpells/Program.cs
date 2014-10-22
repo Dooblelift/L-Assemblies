@@ -70,7 +70,7 @@ namespace DisableSpells
             Spells.Add(new SpellStruct
             {
                 ChampionName = "Syndra",
-                AvailableSpell = SpellSlot.R
+                AvailableSpell = SpellSlot.E
             });
             
             
