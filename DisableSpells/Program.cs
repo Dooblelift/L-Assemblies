@@ -54,6 +54,30 @@ namespace DisableSpells
                 ChampionName = "Riven",
                 AvailableSpell = SpellSlot.R
             });
+            
+             Spells.Add(new SpellStruct
+            {
+                ChampionName = "Lux",
+                AvailableSpell = SpellSlot.R
+            });
+            
+             Spells.Add(new SpellStruct
+            {
+                ChampionName = "Nasus",
+                AvailableSpell = SpellSlot.Q
+            });
+            
+             Spells.Add(new SpellStruct
+            {
+                ChampionName = "Twitch",
+                AvailableSpell = SpellSlot.W
+            });
+            
+             Spells.Add(new SpellStruct
+            {
+                ChampionName = "Thresh",
+                AvailableSpell = SpellSlot.E
+            });
 
             Spells.Add(new SpellStruct
             {
