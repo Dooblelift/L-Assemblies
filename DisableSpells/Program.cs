@@ -110,10 +110,14 @@ namespace DisableSpells
                 AvailableSpell = SpellSlot.R
             });
             
-                            ChampionName = "Kog'Maw",
-                AvailableSpell = SpellSlot.W
+            Spells.Add(new SpellStruct
+            {
+                ChampionName = "Kog'Maw",
+                AvailableSpell = SpellSlot.R
             });
             
+            Spells.Add(new SpellStruct
+            {
                             ChampionName = "Lucian",
                 AvailableSpell = SpellSlot.R
             });
