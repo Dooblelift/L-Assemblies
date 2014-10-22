@@ -128,6 +128,8 @@ namespace DisableSpells
                 AvailableSpell = SpellSlot.W
             });
             
+            Spells.Add(new SpellStruct
+            {
                             ChampionName = "Malphite",
                 AvailableSpell = SpellSlot.Q
             });
