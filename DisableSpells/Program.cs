@@ -69,6 +69,13 @@ namespace DisableSpells
             
             Spells.Add(new SpellStruct
             {
+                ChampionName = "Syndra",
+                AvailableSpell = SpellSlot.R
+            });
+            
+            
+            Spells.Add(new SpellStruct
+            {
                 ChampionName = "Lulu",
                 AvailableSpell = SpellSlot.Q
             });
