@@ -113,7 +113,7 @@ namespace DisableSpells
             Spells.Add(new SpellStruct
             {
                 ChampionName = "Kog'Maw",
-                AvailableSpell = SpellSlot.R
+                AvailableSpell = SpellSlot.W
             });
             
             Spells.Add(new SpellStruct
